@@ -1,0 +1,115 @@
+C:\Users\UCY\source\repos\Siparis Otomasyonu Projesi\Siparis Otomasyonu Projesi\bin\Debug\Siparis Otomasyonu Projesi.exe.config
+C:\Users\UCY\source\repos\Siparis Otomasyonu Projesi\Siparis Otomasyonu Projesi\bin\Debug\Siparis Otomasyonu Projesi.exe
+C:\Users\UCY\source\repos\Siparis Otomasyonu Projesi\Siparis Otomasyonu Projesi\bin\Debug\Siparis Otomasyonu Projesi.pdb
+C:\Users\UCY\source\repos\Siparis Otomasyonu Projesi\Siparis Otomasyonu Projesi\obj\Debug\Siparis Otomasyonu Projesi.csproj.AssemblyReference.cache
+C:\Users\UCY\source\repos\Siparis Otomasyonu Projesi\Siparis Otomasyonu Projesi\obj\Debug\Siparis_Otomasyonu_Projesi.FrmAdmin.resources
+C:\Users\UCY\source\repos\Siparis Otomasyonu Projesi\Siparis Otomasyonu Projesi\obj\Debug\Siparis_Otomasyonu_Projesi.FrmAdminUrun.resources
+C:\Users\UCY\source\repos\Siparis Otomasyonu Projesi\Siparis Otomasyonu Projesi\obj\Debug\Siparis_Otomasyonu_Projesi.FrmGiris.resources
+C:\Users\UCY\source\repos\Siparis Otomasyonu Projesi\Siparis Otomasyonu Projesi\obj\Debug\Siparis_Otomasyonu_Projesi.FrmKullanici.resources
+C:\Users\UCY\source\repos\Siparis Otomasyonu Projesi\Siparis Otomasyonu Projesi\obj\Debug\Siparis_Otomasyonu_Projesi.FrmKullaniciPay.resources
+C:\Users\UCY\source\repos\Siparis Otomasyonu Projesi\Siparis Otomasyonu Projesi\obj\Debug\Siparis_Otomasyonu_Projesi.FrmKullaniciSiparis.resources
+C:\Users\UCY\source\repos\Siparis Otomasyonu Projesi\Siparis Otomasyonu Projesi\obj\Debug\Siparis_Otomasyonu_Projesi.Properties.Resources.resources
+C:\Users\UCY\source\repos\Siparis Otomasyonu Projesi\Siparis Otomasyonu Projesi\obj\Debug\Siparis Otomasyonu Projesi.csproj.GenerateResource.cache
+C:\Users\UCY\source\repos\Siparis Otomasyonu Projesi\Siparis Otomasyonu Projesi\obj\Debug\Siparis Otomasyonu Projesi.csproj.CoreCompileInputs.cache
+C:\Users\UCY\source\repos\Siparis Otomasyonu Projesi\Siparis Otomasyonu Projesi\obj\Debug\Siparis Otomasyonu Projesi.exe
+C:\Users\UCY\source\repos\Siparis Otomasyonu Projesi\Siparis Otomasyonu Projesi\obj\Debug\Siparis Otomasyonu Projesi.pdb
+C:\Users\UCY\source\repos\Siparis Otomasyonu Projesi\Siparis Otomasyonu Projesi\obj\Debug\Siparis_Otomasyonu_Projesi.FrmAdminKullanici.resources
+C:\Users\UCY\source\repos\Siparis Otomasyonu Projesi\Siparis Otomasyonu Projesi\obj\Debug\Siparis_Otomasyonu_Projesi.FrmAdminSiparis.resources
+C:\Users\UCY\source\repos\Siparis Otomasyonu Projesi\Siparis Otomasyonu Projesi\obj\Debug\Siparis_Otomasyonu_Projesi.FrmKayit.resources
+C:\Users\UCY\source\repos\Siparis Otomasyonu Projesi V1\Siparis Otomasyonu Projesi\bin\Debug\Siparis Otomasyonu Projesi.exe.config
+C:\Users\UCY\source\repos\Siparis Otomasyonu Projesi V1\Siparis Otomasyonu Projesi\bin\Debug\Siparis Otomasyonu Projesi.exe
+C:\Users\UCY\source\repos\Siparis Otomasyonu Projesi V1\Siparis Otomasyonu Projesi\bin\Debug\Siparis Otomasyonu Projesi.pdb
+C:\Users\UCY\source\repos\Siparis Otomasyonu Projesi V1\Siparis Otomasyonu Projesi\obj\Debug\Siparis Otomasyonu Projesi.csproj.AssemblyReference.cache
+C:\Users\UCY\source\repos\Siparis Otomasyonu Projesi V1\Siparis Otomasyonu Projesi\obj\Debug\Siparis_Otomasyonu_Projesi.FrmAdmin.resources
+C:\Users\UCY\source\repos\Siparis Otomasyonu Projesi V1\Siparis Otomasyonu Projesi\obj\Debug\Siparis_Otomasyonu_Projesi.FrmAdminKullanici.resources
+C:\Users\UCY\source\repos\Siparis Otomasyonu Projesi V1\Siparis Otomasyonu Projesi\obj\Debug\Siparis_Otomasyonu_Projesi.FrmAdminSiparis.resources
+C:\Users\UCY\source\repos\Siparis Otomasyonu Projesi V1\Siparis Otomasyonu Projesi\obj\Debug\Siparis_Otomasyonu_Projesi.FrmAdminUrun.resources
+C:\Users\UCY\source\repos\Siparis Otomasyonu Projesi V1\Siparis Otomasyonu Projesi\obj\Debug\Siparis_Otomasyonu_Projesi.FrmGiris.resources
+C:\Users\UCY\source\repos\Siparis Otomasyonu Projesi V1\Siparis Otomasyonu Projesi\obj\Debug\Siparis_Otomasyonu_Projesi.FrmKayit.resources
+C:\Users\UCY\source\repos\Siparis Otomasyonu Projesi V1\Siparis Otomasyonu Projesi\obj\Debug\Siparis_Otomasyonu_Projesi.FrmKullanici.resources
+C:\Users\UCY\source\repos\Siparis Otomasyonu Projesi V1\Siparis Otomasyonu Projesi\obj\Debug\Siparis_Otomasyonu_Projesi.FrmKullaniciPay.resources
+C:\Users\UCY\source\repos\Siparis Otomasyonu Projesi V1\Siparis Otomasyonu Projesi\obj\Debug\Siparis_Otomasyonu_Projesi.FrmKullaniciSiparis.resources
+C:\Users\UCY\source\repos\Siparis Otomasyonu Projesi V1\Siparis Otomasyonu Projesi\obj\Debug\Siparis_Otomasyonu_Projesi.Properties.Resources.resources
+C:\Users\UCY\source\repos\Siparis Otomasyonu Projesi V1\Siparis Otomasyonu Projesi\obj\Debug\Siparis Otomasyonu Projesi.csproj.GenerateResource.cache
+C:\Users\UCY\source\repos\Siparis Otomasyonu Projesi V1\Siparis Otomasyonu Projesi\obj\Debug\Siparis Otomasyonu Projesi.csproj.CoreCompileInputs.cache
+C:\Users\UCY\source\repos\Siparis Otomasyonu Projesi V1\Siparis Otomasyonu Projesi\obj\Debug\Siparis Otomasyonu Projesi.exe
+C:\Users\UCY\source\repos\Siparis Otomasyonu Projesi V1\Siparis Otomasyonu Projesi\obj\Debug\Siparis Otomasyonu Projesi.pdb
+C:\Users\UCY\source\repos\Siparis Otomasyonu Projesi V1\Siparis Otomasyonu Projesi\obj\Debug\Siparis_Otomasyonu_Projesi.FrmMobil.resources
+C:\Users\UCY\source\repos\Siparis Otomasyonu Projesi V2\Siparis Otomasyonu Projesi\bin\Debug\Siparis Otomasyonu Projesi.exe.config
+C:\Users\UCY\source\repos\Siparis Otomasyonu Projesi V2\Siparis Otomasyonu Projesi\bin\Debug\Siparis Otomasyonu Projesi.exe
+C:\Users\UCY\source\repos\Siparis Otomasyonu Projesi V2\Siparis Otomasyonu Projesi\bin\Debug\Siparis Otomasyonu Projesi.pdb
+C:\Users\UCY\source\repos\Siparis Otomasyonu Projesi V2\Siparis Otomasyonu Projesi\obj\Debug\Siparis Otomasyonu Projesi.csproj.AssemblyReference.cache
+C:\Users\UCY\source\repos\Siparis Otomasyonu Projesi V2\Siparis Otomasyonu Projesi\obj\Debug\Siparis_Otomasyonu_Projesi.FrmAdmin.resources
+C:\Users\UCY\source\repos\Siparis Otomasyonu Projesi V2\Siparis Otomasyonu Projesi\obj\Debug\Siparis_Otomasyonu_Projesi.FrmAdminKullanici.resources
+C:\Users\UCY\source\repos\Siparis Otomasyonu Projesi V2\Siparis Otomasyonu Projesi\obj\Debug\Siparis_Otomasyonu_Projesi.FrmAdminSiparis.resources
+C:\Users\UCY\source\repos\Siparis Otomasyonu Projesi V2\Siparis Otomasyonu Projesi\obj\Debug\Siparis_Otomasyonu_Projesi.FrmAdminUrun.resources
+C:\Users\UCY\source\repos\Siparis Otomasyonu Projesi V2\Siparis Otomasyonu Projesi\obj\Debug\Siparis_Otomasyonu_Projesi.FrmGiris.resources
+C:\Users\UCY\source\repos\Siparis Otomasyonu Projesi V2\Siparis Otomasyonu Projesi\obj\Debug\Siparis_Otomasyonu_Projesi.FrmKayit.resources
+C:\Users\UCY\source\repos\Siparis Otomasyonu Projesi V2\Siparis Otomasyonu Projesi\obj\Debug\Siparis_Otomasyonu_Projesi.FrmKullanici.resources
+C:\Users\UCY\source\repos\Siparis Otomasyonu Projesi V2\Siparis Otomasyonu Projesi\obj\Debug\Siparis_Otomasyonu_Projesi.FrmKullaniciPay.resources
+C:\Users\UCY\source\repos\Siparis Otomasyonu Projesi V2\Siparis Otomasyonu Projesi\obj\Debug\Siparis_Otomasyonu_Projesi.FrmKullaniciSiparis.resources
+C:\Users\UCY\source\repos\Siparis Otomasyonu Projesi V2\Siparis Otomasyonu Projesi\obj\Debug\Siparis_Otomasyonu_Projesi.FrmMobil.resources
+C:\Users\UCY\source\repos\Siparis Otomasyonu Projesi V2\Siparis Otomasyonu Projesi\obj\Debug\Siparis_Otomasyonu_Projesi.Properties.Resources.resources
+C:\Users\UCY\source\repos\Siparis Otomasyonu Projesi V2\Siparis Otomasyonu Projesi\obj\Debug\Siparis Otomasyonu Projesi.csproj.GenerateResource.cache
+C:\Users\UCY\source\repos\Siparis Otomasyonu Projesi V2\Siparis Otomasyonu Projesi\obj\Debug\Siparis Otomasyonu Projesi.csproj.CoreCompileInputs.cache
+C:\Users\UCY\source\repos\Siparis Otomasyonu Projesi V2\Siparis Otomasyonu Projesi\obj\Debug\Siparis Otomasyonu Projesi.exe
+C:\Users\UCY\source\repos\Siparis Otomasyonu Projesi V2\Siparis Otomasyonu Projesi\obj\Debug\Siparis Otomasyonu Projesi.pdb
+C:\Users\UCY\source\repos\Siparis Otomasyonu Projesi V3 dogrulama\Siparis Otomasyonu Projesi\bin\Debug\Siparis Otomasyonu Projesi.exe.config
+C:\Users\UCY\source\repos\Siparis Otomasyonu Projesi V3 dogrulama\Siparis Otomasyonu Projesi\bin\Debug\Siparis Otomasyonu Projesi.exe
+C:\Users\UCY\source\repos\Siparis Otomasyonu Projesi V3 dogrulama\Siparis Otomasyonu Projesi\bin\Debug\Siparis Otomasyonu Projesi.pdb
+C:\Users\UCY\source\repos\Siparis Otomasyonu Projesi V3 dogrulama\Siparis Otomasyonu Projesi\obj\Debug\Siparis Otomasyonu Projesi.csproj.AssemblyReference.cache
+C:\Users\UCY\source\repos\Siparis Otomasyonu Projesi V3 dogrulama\Siparis Otomasyonu Projesi\obj\Debug\Siparis_Otomasyonu_Projesi.FrmAdmin.resources
+C:\Users\UCY\source\repos\Siparis Otomasyonu Projesi V3 dogrulama\Siparis Otomasyonu Projesi\obj\Debug\Siparis_Otomasyonu_Projesi.FrmAdminKullanici.resources
+C:\Users\UCY\source\repos\Siparis Otomasyonu Projesi V3 dogrulama\Siparis Otomasyonu Projesi\obj\Debug\Siparis_Otomasyonu_Projesi.FrmAdminSiparis.resources
+C:\Users\UCY\source\repos\Siparis Otomasyonu Projesi V3 dogrulama\Siparis Otomasyonu Projesi\obj\Debug\Siparis_Otomasyonu_Projesi.FrmAdminUrun.resources
+C:\Users\UCY\source\repos\Siparis Otomasyonu Projesi V3 dogrulama\Siparis Otomasyonu Projesi\obj\Debug\Siparis_Otomasyonu_Projesi.FrmGiris.resources
+C:\Users\UCY\source\repos\Siparis Otomasyonu Projesi V3 dogrulama\Siparis Otomasyonu Projesi\obj\Debug\Siparis_Otomasyonu_Projesi.FrmKayit.resources
+C:\Users\UCY\source\repos\Siparis Otomasyonu Projesi V3 dogrulama\Siparis Otomasyonu Projesi\obj\Debug\Siparis_Otomasyonu_Projesi.FrmKullanici.resources
+C:\Users\UCY\source\repos\Siparis Otomasyonu Projesi V3 dogrulama\Siparis Otomasyonu Projesi\obj\Debug\Siparis_Otomasyonu_Projesi.FrmKullaniciPay.resources
+C:\Users\UCY\source\repos\Siparis Otomasyonu Projesi V3 dogrulama\Siparis Otomasyonu Projesi\obj\Debug\Siparis_Otomasyonu_Projesi.FrmKullaniciSiparis.resources
+C:\Users\UCY\source\repos\Siparis Otomasyonu Projesi V3 dogrulama\Siparis Otomasyonu Projesi\obj\Debug\Siparis_Otomasyonu_Projesi.FrmMobil.resources
+C:\Users\UCY\source\repos\Siparis Otomasyonu Projesi V3 dogrulama\Siparis Otomasyonu Projesi\obj\Debug\Siparis_Otomasyonu_Projesi.Properties.Resources.resources
+C:\Users\UCY\source\repos\Siparis Otomasyonu Projesi V3 dogrulama\Siparis Otomasyonu Projesi\obj\Debug\Siparis Otomasyonu Projesi.csproj.GenerateResource.cache
+C:\Users\UCY\source\repos\Siparis Otomasyonu Projesi V3 dogrulama\Siparis Otomasyonu Projesi\obj\Debug\Siparis Otomasyonu Projesi.csproj.CoreCompileInputs.cache
+C:\Users\UCY\source\repos\Siparis Otomasyonu Projesi V3 dogrulama\Siparis Otomasyonu Projesi\obj\Debug\Siparis Otomasyonu Projesi.exe
+C:\Users\UCY\source\repos\Siparis Otomasyonu Projesi V3 dogrulama\Siparis Otomasyonu Projesi\obj\Debug\Siparis Otomasyonu Projesi.pdb
+C:\Users\UCY\source\repos\Siparis Otomasyonu Projesi V4 kapsül\Siparis Otomasyonu Projesi\bin\Debug\Siparis Otomasyonu Projesi.exe.config
+C:\Users\UCY\source\repos\Siparis Otomasyonu Projesi V4 kapsül\Siparis Otomasyonu Projesi\bin\Debug\Siparis Otomasyonu Projesi.exe
+C:\Users\UCY\source\repos\Siparis Otomasyonu Projesi V4 kapsül\Siparis Otomasyonu Projesi\bin\Debug\Siparis Otomasyonu Projesi.pdb
+C:\Users\UCY\source\repos\Siparis Otomasyonu Projesi V4 kapsül\Siparis Otomasyonu Projesi\obj\Debug\Siparis Otomasyonu Projesi.csproj.AssemblyReference.cache
+C:\Users\UCY\source\repos\Siparis Otomasyonu Projesi V4 kapsül\Siparis Otomasyonu Projesi\obj\Debug\Siparis_Otomasyonu_Projesi.FrmAdmin.resources
+C:\Users\UCY\source\repos\Siparis Otomasyonu Projesi V4 kapsül\Siparis Otomasyonu Projesi\obj\Debug\Siparis_Otomasyonu_Projesi.FrmAdminKullanici.resources
+C:\Users\UCY\source\repos\Siparis Otomasyonu Projesi V4 kapsül\Siparis Otomasyonu Projesi\obj\Debug\Siparis_Otomasyonu_Projesi.FrmAdminSiparis.resources
+C:\Users\UCY\source\repos\Siparis Otomasyonu Projesi V4 kapsül\Siparis Otomasyonu Projesi\obj\Debug\Siparis_Otomasyonu_Projesi.FrmAdminUrun.resources
+C:\Users\UCY\source\repos\Siparis Otomasyonu Projesi V4 kapsül\Siparis Otomasyonu Projesi\obj\Debug\Siparis_Otomasyonu_Projesi.FrmGiris.resources
+C:\Users\UCY\source\repos\Siparis Otomasyonu Projesi V4 kapsül\Siparis Otomasyonu Projesi\obj\Debug\Siparis_Otomasyonu_Projesi.FrmKayit.resources
+C:\Users\UCY\source\repos\Siparis Otomasyonu Projesi V4 kapsül\Siparis Otomasyonu Projesi\obj\Debug\Siparis_Otomasyonu_Projesi.FrmKullanici.resources
+C:\Users\UCY\source\repos\Siparis Otomasyonu Projesi V4 kapsül\Siparis Otomasyonu Projesi\obj\Debug\Siparis_Otomasyonu_Projesi.FrmKullaniciPay.resources
+C:\Users\UCY\source\repos\Siparis Otomasyonu Projesi V4 kapsül\Siparis Otomasyonu Projesi\obj\Debug\Siparis_Otomasyonu_Projesi.FrmKullaniciSiparis.resources
+C:\Users\UCY\source\repos\Siparis Otomasyonu Projesi V4 kapsül\Siparis Otomasyonu Projesi\obj\Debug\Siparis_Otomasyonu_Projesi.FrmMobil.resources
+C:\Users\UCY\source\repos\Siparis Otomasyonu Projesi V4 kapsül\Siparis Otomasyonu Projesi\obj\Debug\Siparis_Otomasyonu_Projesi.Properties.Resources.resources
+C:\Users\UCY\source\repos\Siparis Otomasyonu Projesi V4 kapsül\Siparis Otomasyonu Projesi\obj\Debug\Siparis Otomasyonu Projesi.csproj.GenerateResource.cache
+C:\Users\UCY\source\repos\Siparis Otomasyonu Projesi V4 kapsül\Siparis Otomasyonu Projesi\obj\Debug\Siparis Otomasyonu Projesi.csproj.CoreCompileInputs.cache
+C:\Users\UCY\source\repos\Siparis Otomasyonu Projesi V4 kapsül\Siparis Otomasyonu Projesi\obj\Debug\Siparis Otomasyonu Projesi.exe
+C:\Users\UCY\source\repos\Siparis Otomasyonu Projesi V4 kapsül\Siparis Otomasyonu Projesi\obj\Debug\Siparis Otomasyonu Projesi.pdb
+C:\Users\UCY\source\repos\Siparis Otomasyonu Projesi V4 kapsül\Siparis Otomasyonu Projesi\obj\Debug\Siparis_Otomasyonu_Projesi.Frmintro.resources
+C:\Users\UCY\source\repos\Siparis Alfa V_2\Siparis Otomasyonu Projesi V4 kapsül\Siparis Otomasyonu Projesi\bin\Debug\Siparis Otomasyonu Projesi.exe.config
+C:\Users\UCY\source\repos\Siparis Alfa V_2\Siparis Otomasyonu Projesi V4 kapsül\Siparis Otomasyonu Projesi\bin\Debug\Siparis Otomasyonu Projesi.exe
+C:\Users\UCY\source\repos\Siparis Alfa V_2\Siparis Otomasyonu Projesi V4 kapsül\Siparis Otomasyonu Projesi\bin\Debug\Siparis Otomasyonu Projesi.pdb
+C:\Users\UCY\source\repos\Siparis Alfa V_2\Siparis Otomasyonu Projesi V4 kapsül\Siparis Otomasyonu Projesi\obj\Debug\Siparis Otomasyonu Projesi.csproj.AssemblyReference.cache
+C:\Users\UCY\source\repos\Siparis Alfa V_2\Siparis Otomasyonu Projesi V4 kapsül\Siparis Otomasyonu Projesi\obj\Debug\Siparis_Otomasyonu_Projesi.FrmAdmin.resources
+C:\Users\UCY\source\repos\Siparis Alfa V_2\Siparis Otomasyonu Projesi V4 kapsül\Siparis Otomasyonu Projesi\obj\Debug\Siparis_Otomasyonu_Projesi.FrmAdminKullanici.resources
+C:\Users\UCY\source\repos\Siparis Alfa V_2\Siparis Otomasyonu Projesi V4 kapsül\Siparis Otomasyonu Projesi\obj\Debug\Siparis_Otomasyonu_Projesi.FrmAdminSiparis.resources
+C:\Users\UCY\source\repos\Siparis Alfa V_2\Siparis Otomasyonu Projesi V4 kapsül\Siparis Otomasyonu Projesi\obj\Debug\Siparis_Otomasyonu_Projesi.FrmAdminUrun.resources
+C:\Users\UCY\source\repos\Siparis Alfa V_2\Siparis Otomasyonu Projesi V4 kapsül\Siparis Otomasyonu Projesi\obj\Debug\Siparis_Otomasyonu_Projesi.FrmGiris.resources
+C:\Users\UCY\source\repos\Siparis Alfa V_2\Siparis Otomasyonu Projesi V4 kapsül\Siparis Otomasyonu Projesi\obj\Debug\Siparis_Otomasyonu_Projesi.Frmintro.resources
+C:\Users\UCY\source\repos\Siparis Alfa V_2\Siparis Otomasyonu Projesi V4 kapsül\Siparis Otomasyonu Projesi\obj\Debug\Siparis_Otomasyonu_Projesi.FrmKayit.resources
+C:\Users\UCY\source\repos\Siparis Alfa V_2\Siparis Otomasyonu Projesi V4 kapsül\Siparis Otomasyonu Projesi\obj\Debug\Siparis_Otomasyonu_Projesi.FrmKullanici.resources
+C:\Users\UCY\source\repos\Siparis Alfa V_2\Siparis Otomasyonu Projesi V4 kapsül\Siparis Otomasyonu Projesi\obj\Debug\Siparis_Otomasyonu_Projesi.FrmKullaniciPay.resources
+C:\Users\UCY\source\repos\Siparis Alfa V_2\Siparis Otomasyonu Projesi V4 kapsül\Siparis Otomasyonu Projesi\obj\Debug\Siparis_Otomasyonu_Projesi.FrmKullaniciSiparis.resources
+C:\Users\UCY\source\repos\Siparis Alfa V_2\Siparis Otomasyonu Projesi V4 kapsül\Siparis Otomasyonu Projesi\obj\Debug\Siparis_Otomasyonu_Projesi.FrmMobil.resources
+C:\Users\UCY\source\repos\Siparis Alfa V_2\Siparis Otomasyonu Projesi V4 kapsül\Siparis Otomasyonu Projesi\obj\Debug\Siparis_Otomasyonu_Projesi.Properties.Resources.resources
+C:\Users\UCY\source\repos\Siparis Alfa V_2\Siparis Otomasyonu Projesi V4 kapsül\Siparis Otomasyonu Projesi\obj\Debug\Siparis Otomasyonu Projesi.csproj.GenerateResource.cache
+C:\Users\UCY\source\repos\Siparis Alfa V_2\Siparis Otomasyonu Projesi V4 kapsül\Siparis Otomasyonu Projesi\obj\Debug\Siparis Otomasyonu Projesi.csproj.CoreCompileInputs.cache
+C:\Users\UCY\source\repos\Siparis Alfa V_2\Siparis Otomasyonu Projesi V4 kapsül\Siparis Otomasyonu Projesi\obj\Debug\Siparis Otomasyonu Projesi.exe
+C:\Users\UCY\source\repos\Siparis Alfa V_2\Siparis Otomasyonu Projesi V4 kapsül\Siparis Otomasyonu Projesi\obj\Debug\Siparis Otomasyonu Projesi.pdb
