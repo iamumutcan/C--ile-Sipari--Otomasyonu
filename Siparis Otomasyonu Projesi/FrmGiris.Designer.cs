@@ -47,7 +47,6 @@ namespace Siparis_Otomasyonu_Projesi
             this.GirisKullaniciAd.Name = "GirisKullaniciAd";
             this.GirisKullaniciAd.Size = new System.Drawing.Size(100, 20);
             this.GirisKullaniciAd.TabIndex = 0;
-            this.GirisKullaniciAd.Text = "admin";
             // 
             // label1
             // 
@@ -73,7 +72,6 @@ namespace Siparis_Otomasyonu_Projesi
             this.GirisKullaniciSifre.Name = "GirisKullaniciSifre";
             this.GirisKullaniciSifre.Size = new System.Drawing.Size(100, 20);
             this.GirisKullaniciSifre.TabIndex = 2;
-            this.GirisKullaniciSifre.Text = "1234";
             this.GirisKullaniciSifre.UseSystemPasswordChar = true;
             // 
             // button1
